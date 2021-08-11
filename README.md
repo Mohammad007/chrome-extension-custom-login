@@ -8,7 +8,7 @@ that enable users to customize the Chrome browsing experience.</p>
 *************************************
 * <b>How to use chrome extension</b>
 
-1:- Download project
+1:- Download project <br>
 2:- Extract this folder <br>
 3:- Open Chrome and go to Extensions option <br>
 4:- Enable Developer mode <br>
